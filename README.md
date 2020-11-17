@@ -23,10 +23,14 @@ Firstly choose the are you are in, then you can download the Demo App from scann
 <img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Asia%2C%20Africa%2C%20and%20Latin%20America.png" width="200">
 <p>Asia, Africa, and Latin America</p>
 </div>
+<div align="center">
 <img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Europe.png" width=200>
 <p>Europe</p>
+</div>
+<div align="center">
 <img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Russia.png" width=200>
 <p>Russia</p>
+</div>
 
 ## Features
 Features of this application with HMS Core solution
