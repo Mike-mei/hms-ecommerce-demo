@@ -7,12 +7,12 @@
 ## Description
 HMS Core Offers an innovative solution that assists e-commerce apps with quick customer acquisition and improved conversion rates, for sustainable business growth.
 
-This project contains the shopping demo app based on HMS Core Kits. It shows how to use the HMS Core solution in Shopping app. It provides the demo of the whole shopping process except payment.
+This project contains the shopping demo app based on HMS Core Kits. It shows how to use the HMS Core solution in shopping app. It provides the demo of the whole shopping process except payment.
 
 ## Demo Link
 Demo website: https://developer.huawei.com/consumer/en/solution/hms/ecommerce
 
-Firstly choose the are you area in, then you can download the Demo App from scanning the corresponding QR code.
+Firstly choose the area you are in, then you can download the Demo App from scanning the corresponding QR code.
 
 <table><tr>
 <td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/China.png" width="200"><p>China</p></td>
@@ -85,7 +85,7 @@ You can use the following barcode picture to test barcode buy function:
 - Scene Kit can show the 3D model of the product.
 <img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/SceneKit.gif" width=200>
 
-##  Precautions
+## Precautions
 The Shopping Demo is a Demo app which simulate a shopping process. There are limited products in the App. Some functions are unavailable or virtual service.
 
 - Customer Service is unavailable.
@@ -107,4 +107,4 @@ If you have questions about how to use HMS samples, try the following options:
 If you run into a bug in our samples, please submit an [issue](https://github.com/HMS-Core/hms-ml-demo/issues) to the Repository. Even better you can submit a [Pull Request](https://github.com/HMS-Core/hms-ml-demo/pulls) with a fix.
 
 ## Licensing and Terms
-HMS Shopping Demo is liscened under the [Apache 2.0 license](https://github.com/HMS-Core/hms-mapkit-demo-java/blob/master/LICENSE).
+HMS Shopping Demo is licensed under the [Apache 2.0 license](https://github.com/HMS-Core/hms-mapkit-demo-java/blob/master/LICENSE).
