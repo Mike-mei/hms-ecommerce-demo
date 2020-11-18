@@ -7,16 +7,16 @@
 ## Description
 HMS Core Offers an innovative solution that assists e-commerce apps with quick customer acquisition and improved conversion rates, for sustainable business growth.
 
-This project contains the shopping demo app based on HMS Core Kits. It shows how to use the HMS Core solution in Shopping app.It provides the demo of the whole shopping process except payment.
+This project contains the shopping demo app based on HMS Core Kits. It shows how to use the HMS Core solution in Shopping app. It provides the demo of the whole shopping process except payment.
 
 ## Demo Link
 Demo website: https://developer.huawei.com/consumer/en/solution/hms/ecommerce
 
-Firstly choose the are you are in, then you can download the Demo App from scanning the corresponding QR code.
+Firstly choose the are you area in, then you can download the Demo App from scanning the corresponding QR code.
 
 <table><tr>
 <td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/China.png" width="200"><p>China</p></td>
-<td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Asia%2C%20Africa%2C%20and%20Latin%20America.png" width="200"><p>Asia, Africa, and Latin America</p></td>
+<td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Asia-Africa-and-Latin-America.png" width="200"><p>Asia, Africa, and Latin America</p></td>
 <td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Europe.png" width=200><p>Europe</p></td>
 <td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Russia.png" width=200><p>Russia</p></td>
 </tr></table>
@@ -58,32 +58,32 @@ You can also download the zip file containing the code in this page
 
 ## Kit Usage Description
 - When opening the App, Ads kit will be called to show the splash Ads.
-<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit%20usage%20gif/Ads%20Kit.gif" width=200>
+<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/AdsKit.gif" width=200>
 
 - When you log in your Huawei Account, the account kit will used.
-<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit%20usage%20gif/Account%20Kit.gif" width=200>
+<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/AccountKit.gif" width=200>
 
 - Scan kit is used to scan the barcode/QR Code to view the product.
-<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit%20usage%20gif/Scan%20Kit.gif" width=200>
+<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/ScanKit.gif" width=200>
 You can use the following barcode picture to test barcode buy function:
 
 ![Bar Code](barcode.gif)
 
 - You can also take a photo to the physical goods and system will search for the similar item in the system. ML kit capability is used here.
-<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit%20usage%20gif/ML%20Kit.gif" width=200>
+<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/MLKit.gif" width=200>
 
 - After you create a purchase order, a notification will be sent to you via push kit.
-<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit%20usage%20gif/Push%20Kit.gif" width=200>
+<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/PushKit.gif" width=200>
 
 - When you view the product information, video kit is used to show the product video.
-<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit%20usage%20gif/Video%20Kit.gif" width=200>
+<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/VideoKit.gif" width=200>
 
 - Location kit is used to get your current location to get the district information.
 - Identity kit is used to get configured address to make it fast for delivery address.
 - Analytics Kit will collect the basic usage information to App developer to analyze the App usage statistics.
 
 - Scene Kit can show the 3D model of the product.
-<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit%20usage%20gif/Scene%20Kit.gif" width=200>
+<img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/SceneKit.gif" width=200>
 
 ##  Precautions
 The Shopping Demo is a Demo app which simulate a shopping process. There are limited products in the App. Some functions are unavailable or virtual service.
