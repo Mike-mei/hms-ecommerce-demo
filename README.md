@@ -30,7 +30,7 @@ Features of this application with HMS Core solution
 - Filter by category
 - Barcode scanning-based search
 - Photo scanning-based search
-- Search product name
+- Search by product name
 - Add/update to shopping cart
 - One-tap login in/out
 - Notifications for order/payment update
