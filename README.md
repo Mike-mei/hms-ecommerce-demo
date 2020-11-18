@@ -14,6 +14,14 @@ Demo website: https://developer.huawei.com/consumer/en/solution/hms/ecommerce
 
 Firstly choose the are you are in, then you can download the Demo App from scanning the corresponding QR code.
 
+<table><tr>
+<td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/China.png" width="200"><p><center>China</center></p></td>
+<td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Asia%2C%20Africa%2C%20and%20Latin%20America.png" width="200"><p>Asia, Africa, and Latin America</p></td>
+<td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Europe.png" width=200><p>Europe</p></td>
+<td><img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/Russia.png" width=200><p>Russia</p></td>
+</tr></table>
+
+
 
 <div align="center">
 <img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/barcode/China.png" width="200">
@@ -105,8 +113,6 @@ The Shopping Demo is a Demo app which simulate a shopping process. There are lim
 - The order you made in the App is virtual, there will not be product delivery.
 - The Ads in the App is test Ads.
 - The account you login is the Huawei Account on the phone. The App will get your avatar and account name. It is used to show in the App.
-
-## Tutorials
 
 
 ## Participation
