@@ -58,7 +58,9 @@ You can also download the zip file containing the code in this page
 
 ## Kit Usage Description
 - When opening the App, Ads kit will be called to show the splash Ads.
+<div align="center">
 <img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/AdsKit.gif" width=200>
+</div>
 
 - When you log in your Huawei Account, the account kit will used.
 <img src="https://github.com/Mike-mei/hms-ecommerce-demo/blob/main/images/kit-usage-gif/AccountKit.gif" width=200>
