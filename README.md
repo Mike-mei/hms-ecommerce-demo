@@ -5,7 +5,7 @@
 # HMS E-commerce Demo
 
 ## Description
-HMS Core Offers an innovative solution that assists e-commerce apps with quick customer acquisition and improved conversion rates, for sustainable business growth.
+HMS Core Offers an innovative solution that assists e-commerce apps with quick customer acquisition and improved conversion rates, for sustainable business growth test. 
 
 This project contains the shopping demo app based on HMS Core Kits. It shows how to use the HMS Core solution in shopping app. It provides the demo of the whole shopping process except payment.
 
@@ -45,7 +45,7 @@ Features of this application with HMS Core solution
 
 **Run locally**
 1. Clone the repository:
-     
+  
         git clone https://github.com/HMS-Core/hms-ecommerce-demo.git
 
 You can also download the zip file containing the code in this page
